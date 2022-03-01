@@ -13,7 +13,7 @@ Im currently a Computer Engineering undergraduate student of the Informatics Cen
 - :brain: Currently grinding for **mock interviews**
 - :writing_hand: I really like to write things on [Medium](https://fnap.medium.com/)
 -  	:star2: I do **research** in the field of **Data Analysis** and **Network Security**
-- :ringed_planet: Currently learning **OWASP** and loving it!
+- :ringed_planet: Currently learning **NetSec** and loving it!
 - :milky_way: My favorite languages are **C++** and **Python**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnalmeidap)](https://github.com/anuraghazra/github-readme-stats)
