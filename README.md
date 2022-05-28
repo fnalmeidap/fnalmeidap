@@ -2,6 +2,8 @@
 
 Im currently a Computer Engineering undergraduate student of the Informatics Centre at Federal University of Pernambuco (CIn - UFPE). I live in northeast Brazil at the state of Pernambuco. You can find my doings through the links below:
 
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=fnalmeidap.fnalmeidap)
+
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/fnalmeidap/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fnalmeidap)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://fnap.medium.com/)
