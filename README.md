@@ -6,7 +6,7 @@ I am a Computer Engineering undergraduate student at UFPE working as Software En
 
 - Deeply curious to understand how autonomous and robotic systems function
 - Also feel very interested about backend web development, despite fond to work closely low level software
-- Highly interested in embedded systems
+- Highly interested in fourier analysis
 #### Things i enjoy doing:
 - **![socceranalyzer](https://github.com/robocin/SoccerAnalyzer)**: A framework to apply Data Analysis to Robocup Soccer categories
 - **![covid-pe-api](https://github.com/fnalmeidap/covid-pe-api)**: A python API to collect SEPLAG/PE data about covid
