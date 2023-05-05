@@ -2,7 +2,7 @@
 
 ![](https://shields-io-visitor-counter.herokuapp.com/badge?page=fnalmeidap.fnalmeidap&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
-I am a Computer Engineering undergraduate student at UFPE working as Software Enginer in Recife, Brazil.
+I am a Computer Engineering undergraduate student at UFPE working as Software Engineer in Recife, Brazil.
 
 - Deeply curious to understand how autonomous and robotic systems function
 - Also feel very interested about backend web development, despite fond to work closely low level software
